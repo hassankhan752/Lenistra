@@ -1,0 +1,27 @@
+import { ArrowUpRight, Check, FileSearch, ShieldAlert, Terminal } from "lucide-react";
+import type { Project } from "@prisma/client";
+
+export function ProjectPreview({ project }: { project: Project }) {
+  if (project.slug === "contractlens") {
+    return <div className="glass relative overflow-hidden rounded-2xl p-5 md:p-7">
+      <div className="mb-6 flex items-center justify-between border-b border-white/10 pb-4"><div className="flex items-center gap-2 text-xs text-slate-300"><FileSearch size={15} className="text-violet-300" /> Contract review</div><span className="rounded-full border border-violet-300/20 bg-violet-300/10 px-2.5 py-1 font-mono text-[9px] text-violet-200">ANALYSIS COMPLETE</span></div>
+      <div className="space-y-3">
+        <div className="rounded-xl border border-white/[.07] bg-slate-950/50 p-4"><div className="mb-3 flex items-center justify-between"><span className="font-mono text-[10px] text-slate-500">MASTER SERVICES AGREEMENT</span><span className="text-[10px] text-slate-500">Page 08 / 24</span></div><div className="space-y-2.5"><div className="h-2 w-[90%] rounded bg-slate-700/60"/><div className="h-2 w-full rounded bg-slate-700/60"/><div className="relative h-2 w-[82%] rounded bg-rose-300/25"><span className="absolute -right-5 -top-1.5 h-5 w-1 rounded-full bg-rose-300"/></div><div className="h-2 w-[68%] rounded bg-slate-700/60"/></div></div>
+        <div className="flex gap-3 rounded-xl border border-rose-300/15 bg-rose-300/[.055] p-4"><div className="mt-0.5 rounded-lg bg-rose-300/10 p-2 text-rose-200"><ShieldAlert size={15}/></div><div className="min-w-0 flex-1"><div className="flex items-center gap-2"><span className="text-xs font-semibold text-rose-100">Unlimited indemnity</span><span className="rounded bg-rose-300/10 px-1.5 py-0.5 font-mono text-[8px] text-rose-200">HIGH RISK</span></div><p className="mt-1.5 text-[11px] leading-relaxed text-slate-400">Broad liability exposure identified in Section 8.2. No financial cap found.</p></div><ArrowUpRight size={14} className="text-slate-500"/></div>
+        <div className="flex items-center gap-2 px-1 text-[10px] text-slate-500"><Check size={12} className="text-emerald-300"/> Findings linked to original contract language</div>
+      </div>
+    </div>;
+  }
+  if (project.slug !== "jarvis") {
+    return <div className="glass relative overflow-hidden rounded-2xl p-5 md:p-7">
+      <div className="mb-7 flex items-center justify-between border-b border-white/10 pb-4"><div className="flex items-center gap-2 text-xs text-slate-300"><span className="h-2 w-2 rounded-full bg-cyan-200"/>{project.title} <span className="text-slate-600">/</span> overview</div><span className="font-mono text-[9px] uppercase tracking-wider text-cyan-100/70">{project.status}</span></div>
+      <p className="font-mono text-[9px] uppercase tracking-[.2em] text-slate-500">{project.category}</p><h4 className="mt-3 text-2xl font-semibold tracking-tight text-slate-100">{project.title}</h4><p className="mt-2 max-w-md text-xs leading-6 text-slate-400">{project.subtitle}</p>
+      <div className="mt-7 grid grid-cols-2 gap-3">{project.techStack.slice(0, 4).map((tech) => <div key={tech} className="rounded-xl border border-white/[.07] bg-slate-950/50 p-3"><span className="font-mono text-[10px] text-slate-400">{tech}</span><div className="mt-3 h-1 w-full rounded bg-white/[.06]"><div className="h-1 w-2/3 rounded bg-cyan-200/50"/></div></div>)}</div>
+      <div className="mt-4 rounded-xl border border-white/[.06] bg-white/[.025] p-4"><p className="text-[10px] leading-5 text-slate-400">{project.description}</p></div>
+    </div>;
+  }
+  return <div className="glass relative overflow-hidden rounded-2xl p-5 md:p-7">
+    <div className="mb-4 flex items-center justify-between border-b border-white/10 pb-4"><div className="flex items-center gap-2 text-xs text-slate-300"><Terminal size={15} className="text-cyan-200"/> jarvis-shell <span className="text-slate-600">/</span> workspace</div><div className="flex gap-1.5"><i className="h-2 w-2 rounded-full bg-rose-300/70"/><i className="h-2 w-2 rounded-full bg-amber-200/70"/><i className="h-2 w-2 rounded-full bg-emerald-300/70"/></div></div>
+    <div className="terminal-scroll min-h-[240px] space-y-4 overflow-hidden font-mono text-[11px] leading-relaxed md:min-h-[268px] md:text-xs"><p className="text-slate-500">// Tuesday, 09:41 AM · system ready</p><p><span className="text-cyan-200">hassan@jarvis</span><span className="text-slate-500"> ~ </span><span className="text-white">›</span> <span className="text-slate-200">Summarize my open tasks and draft a focus plan</span></p><div className="ml-3 border-l border-cyan-300/25 pl-4 text-slate-400"><p className="mb-2 text-cyan-100">I found 6 open tasks across 3 projects.</p><p>Here&apos;s a focused plan for your morning:</p><ul className="mt-2 space-y-1.5"><li><span className="mr-2 text-cyan-200">01</span>Finalize the Atlas onboarding flow <span className="text-slate-600">· 45 min</span></li><li><span className="mr-2 text-cyan-200">02</span>Review notes from the design sync <span className="text-slate-600">· 20 min</span></li><li><span className="mr-2 text-cyan-200">03</span>Send project update to the team <span className="text-slate-600">· 15 min</span></li></ul><p className="mt-3 text-slate-500">I can block these on your calendar when you&apos;re ready.</p></div><p><span className="text-cyan-200">hassan@jarvis</span><span className="text-slate-500"> ~ </span><span className="animate-pulse-soft text-cyan-200">▍</span></p></div>
+  </div>;
+}

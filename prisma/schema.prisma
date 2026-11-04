@@ -1,0 +1,30 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Project {
+  id            String   @id @default(cuid())
+  slug          String   @unique
+  title         String
+  subtitle      String
+  category      String
+  description   String   @db.Text
+  techStack     String[]
+  liveDemoUrl   String?
+  githubUrl     String?
+  displayOrder  Int      @default(0)
+  featured      Boolean  @default(false)
+  status        String   @default("Live")
+  accent        String   @default("cyan")
+  architecture  String   @db.Text
+  features      String[]
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@index([displayOrder, createdAt])
+}
