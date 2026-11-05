@@ -11,10 +11,13 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$down$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowDown$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/arrow-down.js [app-ssr] (ecmascript) <export default as ArrowDown>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/arrow-right.js [app-ssr] (ecmascript) <export default as ArrowRight>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$up$2d$right$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowUpRight$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/arrow-up-right.js [app-ssr] (ecmascript) <export default as ArrowUpRight>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$bot$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Bot$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/bot.js [app-ssr] (ecmascript) <export default as Bot>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Check$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/check.js [app-ssr] (ecmascript) <export default as Check>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$code$2d$xml$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Code2$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/code-xml.js [app-ssr] (ecmascript) <export default as Code2>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$github$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Github$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/github.js [app-ssr] (ecmascript) <export default as Github>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$layers$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Layers3$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/layers.js [app-ssr] (ecmascript) <export default as Layers3>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$lightbulb$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Lightbulb$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/lightbulb.js [app-ssr] (ecmascript) <export default as Lightbulb>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/map-pin.js [app-ssr] (ecmascript) <export default as MapPin>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$menu$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Menu$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/menu.js [app-ssr] (ecmascript) <export default as Menu>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sparkles$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Sparkles$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/sparkles.js [app-ssr] (ecmascript) <export default as Sparkles>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/x.js [app-ssr] (ecmascript) <export default as X>");
@@ -1198,68 +1201,212 @@ function Skills() {
     }, this);
 }
 function About() {
+    const ambitionIcons = [
+        __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$bot$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Bot$3e$__["Bot"],
+        __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$lightbulb$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Lightbulb$3e$__["Lightbulb"],
+        __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sparkles$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Sparkles$3e$__["Sparkles"]
+    ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         id: "about",
-        className: "py-20 md:py-24",
-        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "section-wrap grid gap-10 md:grid-cols-[.65fr_1.35fr] md:items-start",
-            children: [
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "mb-3 font-mono text-[10px] uppercase tracking-[.24em] text-cyan-200/75",
-                            children: "A little about me"
-                        }, void 0, false, {
-                            fileName: "[project]/src/components/Portfolio.tsx",
-                            lineNumber: 49,
-                            columnNumber: 164
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                            className: "text-3xl font-semibold tracking-[-.04em]",
-                            children: [
-                                "Engineer by craft.",
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                    fileName: "[project]/src/components/Portfolio.tsx",
-                                    lineNumber: 49,
-                                    columnNumber: 346
-                                }, this),
-                                "Curious by default."
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/src/components/Portfolio.tsx",
-                            lineNumber: 49,
-                            columnNumber: 271
-                        }, this)
-                    ]
-                }, void 0, true, {
-                    fileName: "[project]/src/components/Portfolio.tsx",
-                    lineNumber: 49,
-                    columnNumber: 159
-                }, this),
-                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "max-w-2xl text-base leading-8 text-slate-400",
-                        children: "I work across product, design, and engineering to make ambitious software feel clear and dependable. My favorite problems live where AI can take away busywork and give people more room to think."
-                    }, void 0, false, {
+        className: "relative overflow-hidden border-y border-white/[.055] bg-white/[.012] py-24 md:py-28",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "pointer-events-none absolute -right-32 top-0 h-80 w-80 rounded-full bg-indigo-400/[.05] blur-[110px]"
+            }, void 0, false, {
+                fileName: "[project]/src/components/Portfolio.tsx",
+                lineNumber: 51,
+                columnNumber: 127
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "section-wrap relative grid gap-10 lg:grid-cols-[.8fr_1.2fr] lg:gap-16",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "mb-4 font-mono text-[10px] uppercase tracking-[.24em] text-cyan-200/75",
+                                children: "A little about me"
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Portfolio.tsx",
+                                lineNumber: 51,
+                                columnNumber: 338
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                                className: "text-4xl font-semibold leading-tight tracking-[-.05em] md:text-5xl",
+                                children: [
+                                    "I'm ",
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "text-gradient",
+                                        children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$site$2d$data$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["siteMetadata"].name
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Portfolio.tsx",
+                                        lineNumber: 51,
+                                        columnNumber: 537
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "text-cyan-200",
+                                        children: "."
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Portfolio.tsx",
+                                        lineNumber: 51,
+                                        columnNumber: 595
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/components/Portfolio.tsx",
+                                lineNumber: 51,
+                                columnNumber: 445
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "mt-6 inline-flex items-center gap-2 rounded-full border border-cyan-200/15 bg-cyan-200/[.055] px-3.5 py-2 text-xs text-cyan-100",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__["MapPin"], {
+                                        size: 14
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Portfolio.tsx",
+                                        lineNumber: 51,
+                                        columnNumber: 785
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        children: [
+                                            "Based in ",
+                                            __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$site$2d$data$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["siteMetadata"].location
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/components/Portfolio.tsx",
+                                        lineNumber: 51,
+                                        columnNumber: 804
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/components/Portfolio.tsx",
+                                lineNumber: 51,
+                                columnNumber: 640
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "mt-7 max-w-md text-sm leading-7 text-slate-400",
+                                children: "I'm a product engineer drawn to the frontier of AI. I want to build tools that feel imaginative, useful, and deeply human."
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Portfolio.tsx",
+                                lineNumber: 51,
+                                columnNumber: 855
+                            }, this)
+                        ]
+                    }, void 0, true, {
                         fileName: "[project]/src/components/Portfolio.tsx",
-                        lineNumber: 49,
-                        columnNumber: 386
+                        lineNumber: 51,
+                        columnNumber: 333
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "mb-5 flex items-center gap-3",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "h-px w-8 bg-cyan-200/40"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Portfolio.tsx",
+                                        lineNumber: 51,
+                                        columnNumber: 1105
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "font-mono text-[10px] uppercase tracking-[.2em] text-slate-400",
+                                        children: "What I'm aiming for"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Portfolio.tsx",
+                                        lineNumber: 51,
+                                        columnNumber: 1148
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/components/Portfolio.tsx",
+                                lineNumber: 51,
+                                columnNumber: 1059
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "grid gap-3",
+                                children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$site$2d$data$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ambitions"].map((ambition, index)=>{
+                                    const Icon = ambitionIcons[index] ?? __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sparkles$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Sparkles$3e$__["Sparkles"];
+                                    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("article", {
+                                        className: "glass group flex gap-4 rounded-2xl p-4 transition hover:border-cyan-200/20 hover:bg-white/[.035] md:p-5",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                className: "grid h-10 w-10 shrink-0 place-items-center rounded-xl border border-cyan-200/15 bg-cyan-200/[.06] text-cyan-100 transition group-hover:bg-cyan-200/[.12]",
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Icon, {
+                                                    size: 17
+                                                }, void 0, false, {
+                                                    fileName: "[project]/src/components/Portfolio.tsx",
+                                                    lineNumber: 51,
+                                                    columnNumber: 1697
+                                                }, this)
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/components/Portfolio.tsx",
+                                                lineNumber: 51,
+                                                columnNumber: 1526
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                        className: "text-sm font-semibold text-slate-100",
+                                                        children: ambition.title
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/Portfolio.tsx",
+                                                        lineNumber: 51,
+                                                        columnNumber: 1726
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "mt-1.5 text-xs leading-5 text-slate-400",
+                                                        children: ambition.description
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/src/components/Portfolio.tsx",
+                                                        lineNumber: 51,
+                                                        columnNumber: 1800
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/components/Portfolio.tsx",
+                                                lineNumber: 51,
+                                                columnNumber: 1721
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                className: "ml-auto hidden self-start font-mono text-[9px] tracking-widest text-slate-600 sm:block",
+                                                children: [
+                                                    "0",
+                                                    index + 1
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/src/components/Portfolio.tsx",
+                                                lineNumber: 51,
+                                                columnNumber: 1887
+                                            }, this)
+                                        ]
+                                    }, ambition.title, true, {
+                                        fileName: "[project]/src/components/Portfolio.tsx",
+                                        lineNumber: 51,
+                                        columnNumber: 1380
+                                    }, this);
+                                })
+                            }, void 0, false, {
+                                fileName: "[project]/src/components/Portfolio.tsx",
+                                lineNumber: 51,
+                                columnNumber: 1260
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/Portfolio.tsx",
+                        lineNumber: 51,
+                        columnNumber: 1054
                     }, this)
-                }, void 0, false, {
-                    fileName: "[project]/src/components/Portfolio.tsx",
-                    lineNumber: 49,
-                    columnNumber: 381
-                }, this)
-            ]
-        }, void 0, true, {
-            fileName: "[project]/src/components/Portfolio.tsx",
-            lineNumber: 49,
-            columnNumber: 74
-        }, this)
-    }, void 0, false, {
+                ]
+            }, void 0, true, {
+                fileName: "[project]/src/components/Portfolio.tsx",
+                lineNumber: 51,
+                columnNumber: 246
+            }, this)
+        ]
+    }, void 0, true, {
         fileName: "[project]/src/components/Portfolio.tsx",
-        lineNumber: 49,
-        columnNumber: 27
+        lineNumber: 51,
+        columnNumber: 10
     }, this);
 }
 function Contact() {
@@ -1273,7 +1420,7 @@ function Contact() {
                     className: "absolute -right-14 -top-24 h-72 w-72 rounded-full bg-cyan-200/[.08] blur-[90px]"
                 }, void 0, false, {
                     fileName: "[project]/src/components/Portfolio.tsx",
-                    lineNumber: 51,
+                    lineNumber: 54,
                     columnNumber: 261
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1284,7 +1431,7 @@ function Contact() {
                             children: "Have a good problem?"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Portfolio.tsx",
-                            lineNumber: 51,
+                            lineNumber: 54,
                             columnNumber: 385
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -1295,14 +1442,14 @@ function Contact() {
                                     className: "hidden md:block"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Portfolio.tsx",
-                                    lineNumber: 51,
+                                    lineNumber: 54,
                                     columnNumber: 614
                                 }, this),
                                 " worth using."
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Portfolio.tsx",
-                            lineNumber: 51,
+                            lineNumber: 54,
                             columnNumber: 495
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1310,7 +1457,7 @@ function Contact() {
                             children: "If you're building a thoughtful product or exploring what AI can do for your team, I'd like to hear about it."
                         }, void 0, false, {
                             fileName: "[project]/src/components/Portfolio.tsx",
-                            lineNumber: 51,
+                            lineNumber: 54,
                             columnNumber: 665
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1322,13 +1469,13 @@ function Contact() {
                                     size: 15
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Portfolio.tsx",
-                                    lineNumber: 51,
+                                    lineNumber: 54,
                                     columnNumber: 1081
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Portfolio.tsx",
-                            lineNumber: 51,
+                            lineNumber: 54,
                             columnNumber: 850
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1336,24 +1483,24 @@ function Contact() {
                             children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$site$2d$data$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["siteMetadata"].email
                         }, void 0, false, {
                             fileName: "[project]/src/components/Portfolio.tsx",
-                            lineNumber: 51,
+                            lineNumber: 54,
                             columnNumber: 1110
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/Portfolio.tsx",
-                    lineNumber: 51,
+                    lineNumber: 54,
                     columnNumber: 359
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/components/Portfolio.tsx",
-            lineNumber: 51,
+            lineNumber: 54,
             columnNumber: 91
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/components/Portfolio.tsx",
-        lineNumber: 51,
+        lineNumber: 54,
         columnNumber: 29
     }, this);
 }
@@ -1362,36 +1509,36 @@ function Portfolio({ projects }) {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Header, {}, void 0, false, {
                 fileName: "[project]/src/components/Portfolio.tsx",
-                lineNumber: 54,
+                lineNumber: 57,
                 columnNumber: 16
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Hero, {
                 projects: projects
             }, void 0, false, {
                 fileName: "[project]/src/components/Portfolio.tsx",
-                lineNumber: 54,
+                lineNumber: 57,
                 columnNumber: 25
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Work, {
                 projects: projects
             }, void 0, false, {
                 fileName: "[project]/src/components/Portfolio.tsx",
-                lineNumber: 54,
+                lineNumber: 57,
                 columnNumber: 52
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Skills, {}, void 0, false, {
                 fileName: "[project]/src/components/Portfolio.tsx",
-                lineNumber: 54,
+                lineNumber: 57,
                 columnNumber: 79
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(About, {}, void 0, false, {
                 fileName: "[project]/src/components/Portfolio.tsx",
-                lineNumber: 54,
+                lineNumber: 57,
                 columnNumber: 88
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(Contact, {}, void 0, false, {
                 fileName: "[project]/src/components/Portfolio.tsx",
-                lineNumber: 54,
+                lineNumber: 57,
                 columnNumber: 96
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -1407,7 +1554,7 @@ function Portfolio({ projects }) {
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Portfolio.tsx",
-                        lineNumber: 54,
+                        lineNumber: 57,
                         columnNumber: 249
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1419,7 +1566,7 @@ function Portfolio({ projects }) {
                                 children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$lib$2f$site$2d$data$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["siteMetadata"].email
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Portfolio.tsx",
-                                lineNumber: 54,
+                                lineNumber: 57,
                                 columnNumber: 375
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1430,25 +1577,25 @@ function Portfolio({ projects }) {
                                 children: "GitHub"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Portfolio.tsx",
-                                lineNumber: 54,
+                                lineNumber: 57,
                                 columnNumber: 484
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Portfolio.tsx",
-                        lineNumber: 54,
+                        lineNumber: 57,
                         columnNumber: 334
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/Portfolio.tsx",
-                lineNumber: 54,
+                lineNumber: 57,
                 columnNumber: 106
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/Portfolio.tsx",
-        lineNumber: 54,
+        lineNumber: 57,
         columnNumber: 10
     }, this);
 }
@@ -2112,6 +2259,8 @@ function ProjectPreview({ project }) {
 "use strict";
 
 __turbopack_context__.s([
+    "ambitions",
+    ()=>ambitions,
     "rotatingSpecialties",
     ()=>rotatingSpecialties,
     "siteMetadata",
@@ -2127,10 +2276,24 @@ const siteMetadata = {
     availability: "Available for select projects",
     copyrightYear: 2026,
     socialLinks: {
-        github: "https://github.com/",
-        linkedin: "https://linkedin.com/"
+        github: "https://github.com/hassankhan752",
+        linkedin: "https://linkedin.com/hassankhan752"
     }
 };
+const ambitions = [
+    {
+        title: "Build capable AI agents",
+        description: "Create agents that can reason, use tools, and take useful action for people."
+    },
+    {
+        title: "Invent new AI products",
+        description: "Turn fresh ideas into practical products that make everyday work better."
+    },
+    {
+        title: "Explore what comes next",
+        description: "Find thoughtful ways for people and intelligent systems to work together."
+    }
+];
 const skillGroups = [
     {
         number: "01",

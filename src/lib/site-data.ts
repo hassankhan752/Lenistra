@@ -6,10 +6,25 @@ export const siteMetadata = {
   availability: "Available for select projects",
   copyrightYear: 2026,
   socialLinks: {
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
+    github: "https://github.com/hassankhan752",
+    linkedin: "https://linkedin.com/hassankhan752",
   },
 };
+
+export const ambitions = [
+  {
+    title: "Build capable AI agents",
+    description: "Create agents that can reason, use tools, and take useful action for people.",
+  },
+  {
+    title: "Invent new AI products",
+    description: "Turn fresh ideas into practical products that make everyday work better.",
+  },
+  {
+    title: "Explore what comes next",
+    description: "Find thoughtful ways for people and intelligent systems to work together.",
+  },
+];
 
 export const skillGroups = [
   {
